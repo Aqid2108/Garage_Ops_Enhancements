@@ -1,0 +1,3 @@
+# Acceptance
+
+Signed readiness summaries.
